@@ -1,0 +1,50 @@
+[general]
+isobaric_tag = 1
+tolerance = 0.03
+tolerance_unit = Da
+peak_picking = max
+denormalize = 0
+ms3 = 0
+hcd = 0
+make_ratios1 = 127:126
+make_ratios2 = 128:126
+make_ratios3 = 129:126
+make_ratios4 = 130:126
+make_ratios5 = 131:126
+[126]
+mz = 126.127725
+shift-124 = 0
+shift-125 = 0.1
+shift-127 = 9.4
+shift-128 = 0.6
+[127]
+mz = 127.131079
+shift-125 = 0.1
+shift-126 = 0.8
+shift-128 = 8.6
+shift-129 = 0.4
+[128]
+mz = 128.134433
+shift-126 = 0.1
+shift-127 = 1.4
+shift-129 = 7.2
+shift-130 = 0.5
+[129]
+mz = 129.137787
+shift-127 = 0.1
+shift-128 = 1.6
+shift-130 = 5.7
+shift-131 = 0.3
+[130]
+mz = 130.141141
+shift-128 = 0.2
+shift-129 = 2.1
+shift-131 = 5.1
+shift-132 = 0.2
+[131]
+mz = 131.138176
+shift-129 = 0.1
+shift-130 = 4.1
+shift-132 = 4.7
+shift-133 = 0.1
+
