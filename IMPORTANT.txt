@@ -1,3 +1,6 @@
 This data is used by the selenium_tests jenkins job.
 
 Don't move or delete unless you know what you're doing!
+
+NOTE: this is a git repository so you should be able to recover               
+old test data.
