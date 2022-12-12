@@ -1,5 +1,4 @@
 *.mzXML filter=lfs diff=lfs merge=lfs -text
-*.fasta.*.RAW filter=lfs diff=lfs merge=lfs -text
 *.sequest filter=lfs diff=lfs merge=lfs -text
 *.lda filter=lfs diff=lfs merge=lfs -text
 *.fasta filter=lfs diff=lfs merge=lfs -text
