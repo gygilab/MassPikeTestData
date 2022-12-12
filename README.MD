@@ -2,8 +2,10 @@
 
 Test data used by functioanl tests. Formerly located on `hippo:/var/lib/jenkins/test_data/ `
 
-
 ## Data files
+
+Original file names:
+Core.RAW was protein4a_spleen_f5_v02968.RAW
 
 
 test_quant:
