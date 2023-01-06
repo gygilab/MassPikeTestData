@@ -2,6 +2,14 @@
 
 Test data used by functioanl tests. Formerly located on `hippo:/var/lib/jenkins/test_data/ `
 
+## Development Note: This is a Git LFS (Large File Storage) repo. 
+
+You must have git lfs installed on your system to use this repository. 
+
+[https://git-lfs.com/](https://git-lfs.com/)
+
+
+
 ## Data files
 
 Original file names:
